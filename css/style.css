@@ -97,13 +97,19 @@ h4 {
     box-shadow: 5px 5px 20px gray;
 }
 
-.recent-post img {
-    width: 100%;
+.post img {
+    width: 23.275rem;
+    height: 14.5rem;
+    
 }
 
 .post {
- width: 90%;
-    margin: 0 auto;
+    text-align: center;
+    margin: 2.5em 0;
+}
+
+.post h4{
+    margin-top: 0;
 }
     
 .content a {
